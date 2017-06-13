@@ -1,0 +1,5 @@
+<referenceBlock name='category.products.list'>
+    <action method='setTemplate'>
+        <argument name='template' xsi:type='string'>Namespace_Module::list.phtml</argument>
+    </action>
+</referenceBlock>
